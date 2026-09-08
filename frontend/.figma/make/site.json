@@ -1,0 +1,10 @@
+{
+  "description": "This AI-driven platform helps retail loan borrowers in India manage EMI repayments by assessing risk levels and providing timely alerts and assistance.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
